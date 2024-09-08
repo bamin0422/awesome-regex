@@ -1,14 +1,14 @@
 {
-  "name": "useful-regex",
+  "name": "friendly-regex",
   "version": "1.0.0",
-  "description": "The useful-regex provides useful regular expressions that are frequently used. (ex. email, phone-number, Resident registration number etc.)",
+  "description": "The friendly-regex provides useful regular expressions that are frequently used. (ex. email, phone-number, Resident registration number etc.)",
   "main": "./index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bamin0422/useful-regex.git"
+    "url": "git+https://github.com/bamin0422/friendly-regex.git"
   },
   "keywords": [
     "personal-library",
@@ -16,7 +16,7 @@
     "email",
     "phone-number",
     "string",
-    "useful-regex"
+    "friendly-regex"
   ],
   "author": {
     "name": "bamin0422",
@@ -24,11 +24,11 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bamin0422/useful-regex",
+    "url": "https://github.com/bamin0422/friendly-regex",
     "email": "bamin0422@gmail.com"
   },
   "dependencies": {
     "typescript": "^5.5.4"
   },
-  "homepage": "https://github.com/bamin0422/useful-regex"
+  "homepage": "https://github.com/bamin0422/friendly-regex"
 }

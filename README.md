@@ -1,12 +1,12 @@
-# useful-regex
+# friendly-regex
 
-The useful-regex provides useful regular expressions that are frequently used. (ex. email, phone-number, Resident registration number
+The friendly-regex provides useful regular expressions that are frequently used. (ex. email, phone-number, Resident registration number
 etc.)
 
 # Installation
 
 ```
-npm i useful-regex
+npm i friendly-regex
 ```
 
 # Usage
@@ -21,5 +21,3 @@ isScriptTag(exString);
 // replacer
 scriptTagReplacer(exString, replacerText);
 ```
-
-#
