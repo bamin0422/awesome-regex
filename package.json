@@ -30,5 +30,8 @@
   "dependencies": {
     "typescript": "^5.5.4"
   },
-  "homepage": "https://github.com/bamin0422/friendly-regex"
+  "homepage": "https://github.com/bamin0422/friendly-regex",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  }
 }
