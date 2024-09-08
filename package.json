@@ -1,0 +1,33 @@
+{
+  "name": "useful-regex",
+  "version": "1.0.0",
+  "description": "The useful-regex provides useful regular expressions that are frequently used. (ex. email, phone-number, Resident registration number etc.)",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bamin0422/useful-regex.git"
+  },
+  "keywords": [
+    "personal-library",
+    "regex",
+    "email",
+    "phone-number",
+    "string",
+    "useful-regex"
+  ],
+  "author": {
+    "name": "bamin0422",
+    "url": "https://bamin-dev.pe.kr"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bamin0422/useful-regex",
+    "email": "bamin0422@gmail.com"
+  },
+  "dependencies": {
+    "typescript": "^5.5.4"
+  }
+}
