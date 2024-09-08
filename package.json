@@ -1,6 +1,6 @@
 {
   "name": "friendly-regex",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "The friendly-regex provides useful regular expressions that are frequently used. (ex. email, phone-number, Resident registration number etc.)",
   "main": "./index.js",
   "scripts": {
