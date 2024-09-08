@@ -5,8 +5,21 @@ etc.)
 
 # Installation
 
-'''
+```
 npm i useful-regex
-'''
+```
 
 # Usage
+
+```javascript
+// matchers
+scriptTagMatcher(exString);
+
+// tester
+isScriptTag(exString);
+
+// replacer
+scriptTagReplacer(exString, replacerText);
+```
+
+#
