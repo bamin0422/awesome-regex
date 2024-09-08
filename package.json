@@ -1,6 +1,6 @@
 {
   "name": "friendly-regex",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "The friendly-regex provides useful regular expressions that are frequently used. (ex. email, phone-number, Resident registration number etc.)",
   "main": "./index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bamin0422/friendly-regex.git"
+    "url": "https://github.com/bamin0422/friendly-regex.git"
   },
   "keywords": [
     "personal-library",
